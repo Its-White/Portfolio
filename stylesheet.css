@@ -1,0 +1,120 @@
+#thing1 {
+	font-family : verdana;
+	font-size : 155%;
+	color : #FFFFFF;
+	background-color : #444444;
+	width : 320px;
+	position : absolute;
+    left: 0px;
+	height : 0px;
+}
+
+#text1 {	
+	font-family : verdana;
+	font-size : 70%;
+	color : #FFFFFF;
+}
+
+#thing1back {
+	background-color : #444444;
+	width : 320px;
+}
+
+#thing2 {
+	font-family : verdana;
+	font-size : 155%;
+	color : #FFFFFF;
+	background-color : #444444;
+	width : 320px;
+	position : absolute;
+    left: 0px;
+}
+
+#text2 {
+	font-family : verdana;
+	font-size : 75%;
+	color : #FFFFFF;
+}
+
+#thing2back {
+	background-color : #444444;
+	width : 320px;
+}
+
+#thing3 {
+	font-family : verdana;
+	font-size : 155%;
+	color : #FFFFFF;
+	background-color : #444444;
+	width : 320px;
+	position : absolute;
+    left: 0px;
+}
+
+#text3 {
+	font-family : verdana;
+	font-size : 65%;
+	color : #FFFFFF;
+}
+
+#thing3back {
+	background-color : #444444;
+	width : 320px;
+}
+
+#spacer-top {
+	font-family : verdana;
+	font-size : 90%;
+	color : #FFFFFF;
+	height : 320px;
+	width : 320px;
+}
+
+#spacer-out1 {
+	height : 320px;
+	width : 320px;
+}
+
+#spacer-top2 {
+	height : 8px;
+	width : 320px;
+}
+
+#spacer-top3 {
+	height : 8px;
+	width : 320px;
+}
+
+
+#spacer-top4 {
+	height : 35px;
+	width : 320px;
+}
+
+#white-space{
+	width : 1600px;
+	height : 1080px;
+}
+
+#left-side-bar {
+	background-color : #111111;
+	width : 320px;
+}
+
+h3 {
+	font-family : verdana;
+	color : #FFFFFF;
+}
+
+p {
+	color : #FFFFFF;
+	font-family : verdana;
+}
+
+body {
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom : 0px;
+}
+
